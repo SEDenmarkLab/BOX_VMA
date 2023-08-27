@@ -1,0 +1,84 @@
+********* ANDERSON-DARLING TEST FOR UTS DATA ********************
+Product 1A UTS A value = 0.22615326756491427
+Product 1A UTS critical value = [0.514 0.586 0.703 0.82  0.975]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1B UTS A value = 0.20643537087433117
+Product 1B UTS critical value = [0.516 0.587 0.705 0.822 0.978]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1C UTS A value = 0.2172384730091501
+Product 1C UTS critical value = [0.516 0.587 0.705 0.822 0.978]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1D UTS A value = 0.2410248667494237
+Product 1D UTS critical value = [0.516 0.587 0.705 0.822 0.978]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1E UTS A value = 1.0732004545356126
+Product 1E UTS critical value = [0.516 0.587 0.705 0.822 0.978]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+********* ANDERSON-DARLING TEST FOR COMMERCIAL DATA ********************
+Product 1A commerical A value = 0.960884151911209
+Product 1A commercial critical value = [0.508 0.579 0.694 0.81  0.963]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1B commerical A value = 0.9364518017760375
+Product 1B commercial critical value = [0.508 0.579 0.694 0.81  0.963]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1C commerical A value = 0.7500268709450957
+Product 1C commercial critical value = [0.508 0.579 0.694 0.81  0.963]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1D commerical A value = 0.5625013108926389
+Product 1D commercial critical value = [0.508 0.579 0.694 0.81  0.963]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+Product 1E commerical A value = 0.3137290335623355
+Product 1E commercial critical value = [0.508 0.579 0.694 0.81  0.963]
+significance levels: [15.  10.   5.   2.5  1. ]
+
+********* LEVENES TEST UTS VS. COMMERCIAL ********************
+Product 1A Levene value for UTS vs commercial = 1.0778172942861035
+Product 1A p value = 0.3048581487300708
+
+Product 1B Levene value for UTS vs commercial = 0.2127157975870377
+Product 1B p value = 0.64686864928688
+
+Product 1C Levene value for UTS vs commercial = 1.0321191010296253
+Product 1C p value = 0.31509280887383
+
+Product 1D Levene value for UTS vs commercial = 1.0282759916161814
+Product 1D p value = 0.3159853390829073
+
+Product 1E Levene value for UTS vs commercial = 3.520798551196341
+Product 1E p value = 0.06709751774909756
+
+********* ONE-TAIL F TEST UTS VS. COMMERCIAL ********************
+F test for 1A
+critical value 2.0824537182164797
+f: 0.8503336049253409
+TS more varied than commercial? False
+p value: 0.651039079098389
+F test for 1B
+critical value 2.073920163193128
+f: 0.9097258667379388
+TS more varied than commercial? False
+p value: 0.5935489921231656
+F test for 1C
+critical value 2.073920163193128
+f: 1.5300737450506763
+TS more varied than commercial? False
+p value: 0.16744309884507314
+F test for 1D
+critical value 2.073920163193128
+f: 1.5353498480051408
+TS more varied than commercial? False
+p value: 0.16549218771347984
+F test for 1E
+critical value 2.073920163193128
+f: 1.8348066431426933
+TS more varied than commercial? True
+p value: 0.08483533323757342
