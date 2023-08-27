@@ -11,6 +11,6 @@ calculates aso, filters out redundant conformers
 
 
 
-The ASO/AEIF descriptors for modelling and the focused analogue descriptors for those workflows are also provided here. These were calculated with ccheminfolib. Modelling descriptors with zero variance or with correlation coefficient > 0.95 have been omitted.
+The ASO/AEIF descriptors for modelling and the focused analogue descriptors for those workflows are also provided here. These were calculated with ccheminfolib. Modelling descriptors with zero variance or with correlation coefficient > 0.95 have been omitted, and were then MinMax scaled.
 
 In fa_lib_only, there are example scripts for calculating the kmeans (Kmeans.py) and generating the elbow plot (make_elbow.py).
